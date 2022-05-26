@@ -1,5 +1,3 @@
-# flight-api
-
 ## Request & Response Examples
 
 ### API Resources
@@ -56,20 +54,20 @@
   
     {
         "Ident": {
-            "0": "WJA118",
-            "1": "WJA2311",
-            "2": "WEN3344",
+            "0": "JZA7737",
+            "1": "PCO3028",
+            "2": "WJA120",
           },
           
           "Type": {
-            "0": "B738",
-            "1": "B738",
-            "2": "DH8D",
+            "0": "BCS3",
+            "1": "DH8D",
+            "2": "B737",
           },
           
           "From": {
-            "0": "Vancouver Int'l (YVR)",
-            "1": "Cancun Int'l (CUN)",
+            "0": "Kamloops (CYKA)",
+            "1": "Palm Springs Intl (PSP)",
             "2": "Kelowna Int'l (YLW)",
           },
           
