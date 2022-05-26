@@ -39,4 +39,7 @@ class Scraper():
 
 airport = Scraper()
 airport.Arrivals('YYC')
+airport.Departures('YYC')
+airport.enRoute('YYC')
+airport.scheduledDepartures('YYC')
 
